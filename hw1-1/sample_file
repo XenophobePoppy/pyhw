@@ -1,0 +1,5 @@
+pysed.py tested on python 2.7.5+
+
+This is a sample file
+try ./pysed {regex} me
+and see if you have the right magic
