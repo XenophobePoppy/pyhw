@@ -1,0 +1,9 @@
+  2 write a user information management system
+   user information can be stored in file, database, ldap or anything else.
+   provide a web interface to customer to search user information by name and other field.
+   the module they may need to study before writing:
+  SimpleHttpServer
+
+   If they have time, they can also try to implement a client to send request to the server and print returned value.
+   The module they may be interested:
+   httplib, urllib
